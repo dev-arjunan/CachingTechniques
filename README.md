@@ -1,4 +1,4 @@
-# CachingTechniques
+# Caching Techniques
 
 The goal of this tutorial is to explain you how to make use of HTTP cache and memory cache to  improve performance of web application.
 
